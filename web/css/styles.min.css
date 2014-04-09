@@ -1,0 +1,9 @@
+select {
+	min-width: 200px;
+	margin-bottom: 10px;
+	display: block;
+}
+
+select:disabled {
+	opacity: .5;
+}
